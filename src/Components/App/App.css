@@ -1,0 +1,7 @@
+.container {
+  background-color:lemonchiffon;
+  border: darkslategray;
+  display: flex;
+  justify-content: space-around;
+  height: 100%;
+}
