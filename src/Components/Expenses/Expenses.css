@@ -1,0 +1,28 @@
+.expenses {
+    /* background-color: blanchedalmond;
+    border: 1px solid blueviolet; */
+}
+
+.expenses h4 {
+    color: #474A57;
+}
+
+.listbox {
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5%;
+}
+
+.listbox p {
+    padding: 10px;
+}
+
+.see-all {
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    margin: 10px 0;
+    font-weight: 800;
+    border-radius: 5%;
+    font-size: 28px;
+}
