@@ -4,7 +4,7 @@ import './ListButton.css';
 class ListButton extends React.Component {
     render() {
         return(
-            <button className="see-all">See All</button>
+            <button className="see-all"><i class="fas fa-eye"></i>  See All</button>
         )
     }    
 }
