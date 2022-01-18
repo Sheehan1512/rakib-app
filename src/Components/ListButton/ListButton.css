@@ -1,0 +1,13 @@
+.see-all {
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    margin: 10px 0;
+    font-weight: 800;
+    border-radius: 5%;
+    font-size: 28px;
+}
+
+.see-all:hover {
+    background-color: #FFBD12;
+}
