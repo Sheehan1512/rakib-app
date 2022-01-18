@@ -1,0 +1,9 @@
+.listbox {
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5%;
+}
+
+.listbox p {
+    padding: 10px;
+}
