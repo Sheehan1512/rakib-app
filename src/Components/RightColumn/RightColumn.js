@@ -1,20 +1,17 @@
 import React from "react";
 import './RightColumn.css';
-import Sheehan from "./Sheehan/Sheehan";
-import Rakib from "./Rakib/Rakib";
-import KeTakaPabe from "./KeTakaPabe/KeTakaPabe";
+import CurrentSitutation from "./CurrentSituation/CurrentSituation";
+import Entries from "./Entries/Entries";
+
 
 class RightColumn extends React.Component {
     render() {
         return(
             <section className="right-column">
-                <section className="current-situation">
-                    <Sheehan />
-                    <KeTakaPabe />
-                    <Rakib />
-
-                </section>
                 
+                <CurrentSitutation />
+                <Entries />
+
 
             </section>
         );

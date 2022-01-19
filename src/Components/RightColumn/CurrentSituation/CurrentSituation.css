@@ -1,0 +1,8 @@
+.current-situation {
+    background-color: #00C6AE;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    border-radius: 2.5%;
+    padding: 20px;
+}

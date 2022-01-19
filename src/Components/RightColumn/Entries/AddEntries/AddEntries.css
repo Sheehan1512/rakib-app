@@ -1,0 +1,27 @@
+#add-entries {
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5%;
+    width: 75%;
+    background-color: #FF89BB;
+    color: white;
+}
+
+#add-entries h2 {
+    text-align: center;
+}
+
+#submit {
+    width: 60%;
+    background-color: white;
+    padding: 10px;
+    margin: 10px auto;
+    font-weight: 800;
+    border-radius: 5%;
+    font-size: 28px;
+}
+
+#submit:hover {
+    background-color: #FFC7DE;
+}
+
