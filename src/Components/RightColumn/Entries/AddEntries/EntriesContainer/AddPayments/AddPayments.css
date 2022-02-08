@@ -1,0 +1,9 @@
+.add-list {
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 5%;
+}
+
+.add-list p {
+    padding: 10px;
+}
